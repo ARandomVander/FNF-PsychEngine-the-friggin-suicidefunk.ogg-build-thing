@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfInvis.png"><SubTexture name="sadm2 idle0000" x="0" y="0" width="378" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 idle0001" x="378" y="0" width="379" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 idle0002" x="378" y="0" width="379" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 idle0003" x="757" y="0" width="379" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 idle0004" x="1136" y="0" width="380" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 idle0005" x="0" y="658" width="385" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 idle0006" x="385" y="658" width="470" height="658" frameX="-57" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 left0000" x="0" y="1316" width="423" height="647" frameX="-67" frameY="-57" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 left0001" x="423" y="1316" width="425" height="647" frameX="-65" frameY="-57" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 left0002" x="423" y="1316" width="425" height="647" frameX="-65" frameY="-57" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 up0000" x="2277" y="605" width="444" height="567" frameX="-121" frameY="-137" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 up0001" x="2277" y="1172" width="446" height="564" frameX="-121" frameY="-140" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 up0002" x="0" y="1963" width="446" height="564" frameX="-121" frameY="-140" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 down0000" x="848" y="1316" width="514" height="607" frameX="-144" frameY="-97" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 down0001" x="1362" y="1316" width="512" height="606" frameX="-146" frameY="-98" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 down0002" x="2277" y="0" width="511" height="605" frameX="-148" frameY="-99" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 right0000" x="855" y="658" width="379" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 right0001" x="1516" y="0" width="380" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+<SubTexture name="sadm2 right0002" x="1896" y="0" width="381" height="658" frameX="-147" frameY="-46" frameWidth="701" frameHeight="760" />
+</TextureAtlas>
