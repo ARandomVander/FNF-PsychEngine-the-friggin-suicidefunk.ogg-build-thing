@@ -1,0 +1,50 @@
+{
+	"storyName": "happiness is a mask",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sadstreet",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"menumouse",
+		"menubf",
+		""
+	],
+	"songs": [
+		[
+			"left to rot",
+			"sad",
+			[
+				95,
+				95,
+				95
+			]
+		],
+		[
+			"depression",
+			"sad",
+			[
+				95,
+				95,
+				95
+			]
+		],
+		[
+			"last thoughts",
+			"happy",
+			[
+				40,
+				40,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "suicide week",
+	"hiddenUntilUnlocked": false
+}
