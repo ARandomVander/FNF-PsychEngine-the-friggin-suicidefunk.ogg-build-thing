@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sad idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				140
+			],
+			"anim": "singRIGHT",
+			"fps": 20,
+			"name": "sad right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				140
+			],
+			"anim": "singDOWN",
+			"fps": 20,
+			"name": "sad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				140
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "sad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				140
+			],
+			"anim": "singUP",
+			"fps": 20,
+			"name": "sad up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sad",
+	"position": [
+		50,
+		90
+	],
+	"healthicon": "sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-20,
+		30
+	],
+	"sing_duration": 3.5,
+	"scale": 0.7
+}
